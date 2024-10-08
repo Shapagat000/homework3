@@ -1,0 +1,131 @@
+h1{
+    margin-top: 20px;
+    background-image: url(https://www.smileteam.com.au/blog/wp-content/uploads/2020/10/1.-NEW-Coffee-Stains-How-to-prevent-getting-them-on-your-teeth.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 80px;
+    height: 400px;
+    color:#53363a;
+    padding-top: 80px;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    text-align: center;
+    font-size: x-large;
+    color:#41292c;
+}
+
+
+
+ul li{
+    color: #e3bb97;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a{
+    color: #305940;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.container{
+    padding:0 px;
+    background-color: #ede8e1
+}
+
+.green{
+    background-color: #99c39a;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(53, 48, 48);
+}
+
+
+.light{
+    background-color: #e7e783;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    color: rgb(53, 48, 48);
+}
+
+.city{
+    background-color: #9c73d9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color:rgb(53, 48, 48);
+}
+
+.vienna{
+    background-color: #af4040;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color:rgb(53, 48, 48));
+}
+
+.italian{
+    background-color: #f671e6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color:rgb(53, 48, 48);
+}
+
+h5{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 800;
+}
+
+
+h2,p{
+    color: 98938e;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #e3bb97;
+}
+hr{
+    color: #f5dac1;
+}
+.roasting{
+    margin-top: 100px;
+    background-color: #ffffff ;
+    padding: 60px;
+    color:#98938e;
+    font-size: 20px;
+    
+}
